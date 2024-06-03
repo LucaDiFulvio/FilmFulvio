@@ -1,0 +1,57 @@
+header {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #ea0202cf;
+    color: #000000;
+}
+
+nav {
+    background: #000000;
+
+  }
+nav a {
+    color: #ecf0f1;
+    text-decoration: none;
+  }
+nav a:hover{
+    color:#ff0000
+}
+ body{
+    background-color: #ff0000;
+}
+section {
+    background: #000000;
+    color: #FFFFFF;
+}
+section mark {
+    background-color: #ff0000ed;
+    color:white
+  }  
+
+.movieCard {
+    background-color: #ff0000ed;
+    transition: transform 0.5s ease;
+    color:white;
+
+ }
+ /* .movieCard:hover {
+    transform: scale(1.0);
+} */
+
+.movieCard a{
+     color: rgb(0, 0, 0);
+     font-size:large;
+ }
+
+ .movieCard li{
+    background: #bb0000ed;
+    color:white;
+}
+
+.movieCard li:hover {
+    color: black;
+}
+footer{
+    color: #000000;
+}
+
+
