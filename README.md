@@ -1,5 +1,5 @@
 # FilmFulvio
-# LBiblioteca de Películas
+# Biblioteca de Películas
 
 ## Descripción
 La página viene con una lista de películas ya creada y se pueden agregar nuevas mediante un formulario. Todo eso se almacena en una base de datos.
